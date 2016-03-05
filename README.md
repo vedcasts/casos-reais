@@ -1,3 +1,3 @@
 # Casos Reais
 
-Os projetos desta séries estão em branches neste repositório
+O código fonte dos projetos da série estão em seus respectivos branches
